@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning C and C++
 - 👯 I’m looking to collaborate on a Startup Project
 - 🤔 I’m looking for help with Developing an OS
-- 💬 Reach me [here](https://www.linkedin.com/in/riyadargoub)
+- 💬 Reach me and send me a message [here](https://www.linkedin.com/in/riyadargoub)
 - 📫 Learn some tips and tricks [here](https://www.instagram.com/coding_kraken/)
 
 <h3 align="left">Languages and Tools:</h3>
