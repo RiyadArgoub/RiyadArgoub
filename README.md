@@ -1,7 +1,7 @@
 ### Hey there, I'm [Riyad](https://www.riyadargoub.com)! 👋 👨‍💻 ![](https://komarev.com/ghpvc/?username=RiyadArgoub&label=Views)
 
 - 🔭 I’m currently working on an AI project
-- 🌱 I’m currently learning C and C++
+- 🌱 I’m currently learning Ruby and Lua
 - 👯 I’m looking to collaborate on a Startup Project (using AI)
 - 🤔 I’m looking for an artist for a project
 - 💬 Reach me and send me a message [here](https://www.linkedin.com/in/riyadargoub)
